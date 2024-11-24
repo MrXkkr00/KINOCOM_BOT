@@ -1,4 +1,4 @@
 #.env
 #venv/
-data/config.py
-data/reklama.txt
+data/config.py/
+data/reklama.txt/
